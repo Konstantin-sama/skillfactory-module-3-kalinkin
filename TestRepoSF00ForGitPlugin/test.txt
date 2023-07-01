@@ -1,0 +1,19 @@
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+C:\Users\mvide>cdC:\Users\mvide\projects\Skillfactory
+Синтаксическая ошибка в имени файла, имени папки или метке тома.
+
+C:\Users\mvide>cd Skillfactory
+Системе не удается найти указанный путь.
+
+C:\Users\mvide>cd C:\Users\mvide\projects\Skillfactory
+
+C:\Users\mvide\projects\Skillfactory>git clone https://github.com/Konstantin-sama/TestRepoSF00ForGitPlugin
+Cloning into 'TestRepoSF00ForGitPlugin'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+C:\Users\mvide\projects\Skillfactory>
